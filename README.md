@@ -1,2 +1,2 @@
 # syntex1147.github.io
-project bypass
+games to play at school when bored

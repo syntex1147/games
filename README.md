@@ -4,4 +4,5 @@ note: I did not make these games. all credits go to original authors. check the 
 thatś it!
 
 play cookie clicker <a href="https://syntex1147.github.io/games/cc/cc.html">here</a>
+<br>
 play super mario 64 <a href="https://syntex1147.github.io/games/sm64/sm64.html">here</a>

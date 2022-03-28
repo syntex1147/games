@@ -5,7 +5,7 @@ thatś it!
 
 play cookie clicker <a href="https://syntex1147.github.io/games/cc/cc.html">here</a>
 <br>
-play super mario 64 <a href="https://syntex1147.github.io/games/sm64/sm64.html">here</a><br>
-play slope <a href="https://syntex1147.github.io/games/slope/slope.html">here</a><br>
-play geometry dash <a href"https://localidiot.gq/geometry">here</a><br>
+play super mario 64 <a href="https://localidiot.gq/sm64/sm64.html">here</a><br>
+play slope <a href="https://localidiot.gq/slope/slope.html">here</a><br>
+play geometry dash <a href="https://localidiot.gq/geometry/">here</a><br>
 

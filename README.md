@@ -1,4 +1,4 @@
-# syntex1147.github.io
+# games
 games to play at school when bored<br>
 note: I did not make these games. all credits go to original authors. check the README.md files in the game folders for more info.
 thatś it!

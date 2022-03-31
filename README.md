@@ -9,4 +9,5 @@ play super mario 64 <a href="https://localidiot.gq/sm64/sm64.html">here</a><br>
 play slope <a href="https://localidiot.gq/slope/slope.html">here</a><br>
 play geometry dash <a href="https://localidiot.gq/geometry/">here</a><br>
 play radius raid <a href="https://localidiot.gq/rr">here</a><br>
+play hexgl <a href="https://localidiot.gq/hexgl">here</a><br>
 

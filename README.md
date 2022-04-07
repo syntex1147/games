@@ -19,3 +19,4 @@ play pacman <a href="https://localidiot.gq/pacman">here</a><br>
 play the maze of space goblins <a href="https://localidiot.gq/themazeofspacegoblins">here</a><br>
 
 
+<a href="https://localidiot.gq/slope/slope.html"><img src="imgs/slope" alt="slope" style="width:42px;height:42px;"></a>

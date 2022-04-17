@@ -17,6 +17,8 @@ play astray <a href="https://localidiot.gq/astray">here</a><br>
 play tetris <a href="https://localidiot.gq/tetris">here</a><br>
 play pacman <a href="https://localidiot.gq/pacman">here</a><br>
 play the maze of space goblins <a href="https://localidiot.gq/themazeofspacegoblins">here</a><br>
+play universal paperclips <a href="https://localidiot.gq/univ-paper">here</a><br>
 
 
 <a href="https://localidiot.gq/slope/slope.html"><img src="imgs/slope.png" alt="slope" style="width:200px;height:200px;"></a>
+

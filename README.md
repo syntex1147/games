@@ -20,7 +20,7 @@ play the maze of space goblins <a href="https://localidiot.gq/themazeofspacegobl
 play universal paperclips <a href="https://localidiot.gq/univ-paper">here</a><br>
 
 
-<a href="https://localidiot.gq/slope/slope.html"><img src="imgs/slope.png" alt="slope" style="width:200px;height:200px;border-radius:8px;"></a>
+<a href="https://localidiot.gq/slope/slope.html"><img src="imgs/slope.png" alt="slope" style="width:200px;height:200px;"></a>
 <a href="https://localidiot.gq/geometry"><img src="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/Geometry_Dash_Logo.PNG/250px-Geometry_Dash_Logo.PNG" alt="slope" style="width:200px;height:200px;right:50px;"></a>
 
 
